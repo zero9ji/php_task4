@@ -3,7 +3,7 @@ session_start();
 //server data
 require_once 'includes/config.php';
 
-
+// Test
 //connect to database
 require_once 'includes/db.php';
 
